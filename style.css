@@ -20,9 +20,27 @@ hr {
                   background-image: linear-gradient(to right, #ccc, #333, #ccc);
                 }
                 
-h1,h2 { 
-    font-size:72px;
+h1 { 
+    font-size:72px; 
+}
+h1, h2 {
+     font-size:72px;
     font-family:"Oswald", "Helvetica Neue";
     text-align:center;
     color: #2884C3;
+}
+
+body {
+    font-size: 1.5em;
+    font-family:"Crimson Text", "Arial";
+    line-height:1.5;
     
+
+}
+
+    
+code {
+    color:#CE234c;
+    background:lightgray;
+    
+}
